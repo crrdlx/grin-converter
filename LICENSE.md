@@ -1,3 +1,4 @@
+![GNU General Public License overview](https://github.com/crrdlx/grin-converter/blob/master/GNU_license.JPG)
 
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
