@@ -1,5 +1,5 @@
 # Grin Converter application (web and Android)
-
+![Grin Converter Logo](icon.png)
 This is my first attempt at an open source project. I figured it'd be good way to learn about GitHub.
 
 Be nice.
