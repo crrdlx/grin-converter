@@ -11,4 +11,4 @@ A handful of fiat are available: USD | GBP | EUR | CNY | CAD | AUD | INR | JPY |
 
 On the web at: http://br549.mywebcommunity.org/grin/
 
-In the Play store: https://play.google.com/store/apps/details?id=com.grin.converter
+Android app in the Play store: https://play.google.com/store/apps/details?id=com.grin.converter
