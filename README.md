@@ -15,7 +15,7 @@ Android app in the Play store: https://play.google.com/store/apps/details?id=com
 
 <hr>
 
-Update: I integrated the Grin converter into the Satoshi Bitcoin Converter app, located at https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US
+Update: I integrated the Grin converter into the Satoshi Bitcoin Converter app, located at https://play.google.com/store/apps/details?id=com.satoshi.bitcoin.converter&hl=en_US. It's advised that the Satoshi Bitcoin Converter app be used.
 The yellow Grin button will be visible to all who use the app...
 
 ![Grin yellow button](img/grin_yellow_button.png)
