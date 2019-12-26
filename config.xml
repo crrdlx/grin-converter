@@ -5,10 +5,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.grin.converter"
         version   = "0.0.6">
-    <name>Grin Converter</name>
+    <name>BADcoin Converter</name>
 
     <description>
-        The Grin Converter automatically switches units between Grin, mGrin, uGrin, and nanoGrin.
+        The BADcoin Converter automatically gathers the current price and reports it in various fiat currencies.
     </description>
 
     <author href="http://www.br549.mywebcommunity.org/grin" email="crrdlx@gmail.com">
